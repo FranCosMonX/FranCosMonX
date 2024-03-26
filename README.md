@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Computer science student in University Federal of Piauí.
+- Currently studying Spring Rest and React.
+- Currently participant of Talento Cloud.
+- Basic knowledge of English. (written)
 <!--
 **FranCosMonX/FranCosMonX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
