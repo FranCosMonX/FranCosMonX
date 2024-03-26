@@ -1,9 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+
+## About me
 
 - Computer science student in University Federal of Piauí.
 - Currently studying Spring Rest and React.
 - Currently participant of Talento Cloud.
 - Basic knowledge of English. (written)
+
+## Contact
+- [Email](francosprogrammermonx@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/francisco-cosme-b3b425221/)
 <!--
 **FranCosMonX/FranCosMonX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
