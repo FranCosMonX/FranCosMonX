@@ -8,7 +8,7 @@
 - Basic knowledge of English. (written)
 
 ## Contact
-- [Email](francosprogrammermonx@gmail.com)
+- **Email:** francosprogrammermonx@gmail.com
 - [Linkedin](https://www.linkedin.com/in/francisco-cosme-b3b425221/)
 <!--
 **FranCosMonX/FranCosMonX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
